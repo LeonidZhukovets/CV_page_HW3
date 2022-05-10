@@ -9,5 +9,5 @@ I created a page using html and css.
 <li>footer
 <li>image
 <li>a
-<li>Other
+<li>other...
   </ul>
