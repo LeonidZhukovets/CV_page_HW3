@@ -14,9 +14,9 @@ I created a page using html and css.
   </ul>
   ---
   <br>
-  # Upd HW_4
+  # Upd HW_4 #
 <br>
-  ### В работе использовал:
+  ### В работе использовал: #
 
   1. Вложенность в CSS
   2. Наследование в CSS
