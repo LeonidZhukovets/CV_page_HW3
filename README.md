@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Page+about+me:)](https://git.io/typing-svg)
 <br>
 I created a page using html and css.
-<ul>When creating the page, I used previously learned tags such as:
+When creating the page, I used previously learned tags such as:
 <li>header
 <li>main
 <li>body
@@ -11,12 +11,12 @@ I created a page using html and css.
 <li>image
 <li>a
 <li>other...
-  </ul>
-  ---
   <br>
-  # Upd HW_4 #
+  ---
 <br>
-  ### В работе использовал: #
+# Upd HW_4
+<br>
+  ### В работе использовал:
 
   1. Вложенность в CSS
   2. Наследование в CSS
