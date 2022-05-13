@@ -12,3 +12,15 @@ I created a page using html and css.
 <li>a
 <li>other...
   </ul>
+  ---
+## Upd HW_4
+<br>
+### В работе использовал:
+
+  1. Вложенность в CSS
+  2. Наследование в CSS
+  3. display:inline-block
+  4. Добавил на страницу CV новый блок с вёрсткой по БЭМу
+  5. Свойство background
+  6. Свойство line-height для центрирования внутри созданной кнопки
+---
