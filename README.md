@@ -26,7 +26,5 @@ When creating the page, I used previously learned tags such as:
   5. Использовал свойство background
   6. Применил свойство line-height для центрирования внутри созданной кнопки
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidZhukovets)](https://github.com/LeonidZhukovets)
-<img src="/img/html5.svg" width="200" height="200" alt="image description">
-<img src="/img/css3.svg" width="200" height="200" alt="image description">
+
  
